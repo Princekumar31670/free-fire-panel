@@ -38,7 +38,7 @@ This panel is a game-changer for Free Fire players looking to elevate their skil
 
 ## 📥 **How to Download and Use**  
 
-1. Click the **“Download Now”** button above to get the ZIP file.  
+1. Click the **“Download”** button above to get the ZIP file.  
 2. Extract the files to a secure folder on your PC or device.  
 3. Run the setup file and follow the quick installation guide.  
 4. Activate the panel during gameplay and dominate your matches! 🎮  
@@ -71,11 +71,11 @@ Your safety is our mission! The Free Fire Panel:
 ---
 
 ## 🌌 **Screenshots**  
-<img src="https://github.com/user-attachments/assets/6ac5e9f0-08b0-4609-8de9-4a8898774fce" alt="ffpanel1" width="600">
+<img src="https://github.com/user-attachments/assets/6ac5e9f0-08b0-4609-8de9-4a8898774fce" alt="ffpanel1" width="800">
 
-<img src="https://github.com/user-attachments/assets/745cd78a-1161-4c64-8eb4-8843c35d0cdd" alt="ffpanel2" width="600">
+<img src="https://github.com/user-attachments/assets/745cd78a-1161-4c64-8eb4-8843c35d0cdd" alt="ffpanel2" width="800">
 
-<img src="https://github.com/user-attachments/assets/2b5c55c3-9454-4cb5-b843-69c385b5b4a2" alt="ffpanel3" width="600">
+<img src="https://github.com/user-attachments/assets/2b5c55c3-9454-4cb5-b843-69c385b5b4a2" alt="ffpanel3" width="800">
 
 
 
@@ -87,4 +87,3 @@ Your safety is our mission! The Free Fire Panel:
 🔥 Download the Free Fire Panel now and transform your gameplay into a masterpiece!  
 
 ---  
-_Created with care for every Free Fire warrior._  

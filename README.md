@@ -53,11 +53,6 @@ This panel is a game-changer for Free Fire players looking to elevate their skil
 
 ---
 
-## 💡 **Tips for Safe Use**  
-
-- Always run the panel on private servers or non-competitive matches first.  
-- Avoid overusing features to maintain a fair gameplay balance.  
-- **Stay updated**: Check for the latest versions on this repository.  
 
 ---
 

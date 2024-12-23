@@ -1,7 +1,8 @@
 # 🔥 **Free Fire Panel - Unleash Your True Power!** 🎮🎯  
 
 > **Dominate every match with the ultimate Free Fire Panel!**  
-> Safe, powerful, and packed with revolutionary features. 🚀  
+> Safe, powerful, and packed with revolutionary features. 🚀
+
 **[![Download Free Fire Panel](https://img.shields.io/badge/Download-Free%20Fire%20Panel-purple)]()** 
 
 

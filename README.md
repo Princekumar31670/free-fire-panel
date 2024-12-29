@@ -1,3 +1,4 @@
+![1000006214](https://github.com/user-attachments/assets/d71ceb03-afd5-495a-9785-4c2503bd1662)
 # 🔥 **Free Fire Panel - Unleash Your True Power!** 🎮🎯  
 
 > **Dominate every match with the ultimate Free Fire Panel!**  
@@ -78,6 +79,7 @@ Your safety is our mission! The Free Fire Panel:
 ---
 
 ## 🎉 **What Are You Waiting For?**  
+8805106774![1000006657](https://github.com/user-attachments/assets/444011a4-ae70-4a10-97ee-9026ea9775b9)
 
 ⭐ Support the project by giving it a star on GitHub!  
 🔥 Download the Free Fire Panel now and transform your gameplay into a masterpiece!  
